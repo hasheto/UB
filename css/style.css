@@ -10,9 +10,9 @@ body {
     text-transform: uppercase;
 }
 
-/* .navbar-nav .nav-link :focus {
+.navbar-nav .nav-link :focus {
     color: #fff !important;
-} */
+}
 
 #home-section {
     min-height: 600px;
