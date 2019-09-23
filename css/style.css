@@ -1,0 +1,89 @@
+body {
+    background: #04a4c0;
+    opacity: 0.8;
+}
+
+.navbar {
+    border-bottom: #c4c1c1 3px solid;
+}
+.navbar-brand {
+    text-transform: uppercase;
+}
+
+/* .navbar-nav .nav-link :focus {
+    color: #fff !important;
+} */
+
+#home-section {
+    min-height: 600px;
+}
+
+#home-section .container {
+    padding-top: 100px;
+}
+
+h4, .lead {
+    color: #777373;
+}
+
+.lead {
+    font-size: 28px;
+    text-align: center;
+}
+
+.img-home {
+    opacity: 0.7;
+}
+
+#about-section {
+    min-height: 600px;
+    padding-top: 20px;
+}
+
+.img-about {
+    opacity: 0.7;
+}
+
+.about {
+    font-size: 24px;
+}
+
+#services-section {
+    min-height: 600px;
+}
+
+#contacts-section {
+    min-height: 600px;
+}
+
+.card {
+    opacity: 0.8;
+}
+
+h5 {
+    color: #fff;
+}
+
+.custom-control {
+    font-size: 14px;
+}
+
+footer {
+    border-top: #c4c1c1 3px solid;
+}
+
+
+
+@media (min-width: 576px;) {
+    h4 {
+        font-size: 0.8em;
+    }
+}
+
+@media (min-width: 768px;) {
+
+}
+
+@media (min-width: 992px;) {
+
+}
