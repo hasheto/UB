@@ -1,6 +1,7 @@
 body {
     background: #04a4c0;
     opacity: 0.8;
+    position: relative;
 }
 
 .navbar {
@@ -75,9 +76,7 @@ footer {
 
 
 @media (min-width: 576px;) {
-    h4 {
-        font-size: 0.8em;
-    }
+
 }
 
 @media (min-width: 768px;) {
@@ -85,5 +84,9 @@ footer {
 }
 
 @media (min-width: 992px;) {
+
+}
+
+@media (max-width: 575px;) {
 
 }
