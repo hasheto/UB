@@ -15,11 +15,11 @@ body {
     color: #fff !important;
 }
 
-#home-section {
+#home {
     min-height: 600px;
 }
 
-#home-section .container {
+#home .container {
     padding-top: 100px;
 }
 
