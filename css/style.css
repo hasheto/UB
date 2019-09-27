@@ -1,7 +1,6 @@
 body {
     background: #04a4c0;
     opacity: 0.8;
-    position: relative;
 }
 
 .navbar {
@@ -28,7 +27,7 @@ h4, .lead {
 }
 
 .lead {
-    font-size: 28px;
+    font-size: 26px;
     text-align: center;
 }
 
@@ -46,7 +45,7 @@ h4, .lead {
 }
 
 .about {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 #services-section {
@@ -72,7 +71,6 @@ h5 {
 footer {
     border-top: #c4c1c1 3px solid;
 }
-
 
 
 @media (min-width: 576px;) {
