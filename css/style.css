@@ -73,18 +73,32 @@ footer {
 }
 
 
-@media (min-width: 576px;) {
+@media (max-width: 500px) {
+    .info-container{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .logo{
+        max-width: 90vw;
+        margin: 0 auto;
+    }
+    .navbar{
+        max-width: 100vw;
+    }
+    .display-4{
+        font-size: 2.25rem;
+    }
+}
+
+@media (min-width: 768px) {
 
 }
 
-@media (min-width: 768px;) {
+@media (min-width: 992px) {
 
 }
 
-@media (min-width: 992px;) {
-
-}
-
-@media (max-width: 575px;) {
+@media (max-width: 575px) {
 
 }
