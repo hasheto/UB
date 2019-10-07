@@ -72,6 +72,11 @@ h5 {
     min-height: 600px;
 }
 
+#policy-section {
+    min-height: 600px 
+}
+
+
 footer {
     border-top: #c4c1c1 3px solid;
 }
